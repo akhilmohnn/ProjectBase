@@ -14,3 +14,5 @@ Backend: Node.js, Express.js, MongoDB, Mongoose, JWT Authentication, Socket.io (
 Database: MongoDB (MongoDB Atlas)
 Payments: Stripe API, PayPal SDK
 Real-Time Chat: Socket.io
+
+*building the chat-application initially
