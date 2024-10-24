@@ -8,11 +8,12 @@ const router=express.Router();
 }); can give fn like this but it becomes lengthy,so using controllers
 */
 
-router.get("/signup",signup);
+router.post("/signup",signup);
 
-router.get("/login",login);
+router.post("/login",login);
 
-router.get("/logout",logout);
+router.post("/logout",logout);
+
 
 
 
